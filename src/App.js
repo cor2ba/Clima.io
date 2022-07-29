@@ -6,7 +6,7 @@ import Cards from './components/Cards.jsx';
 export default function App() {
   const [cities, setCities] = useState([]);
   function onSearch(ciudad) {
-    fetch(`http://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=7f446f1583cd1c8c4f9c14437611e70f&units=metric`)
+    fetch(`https://api.openweathermap.org/data/2.5/weather?q=${ciudad}&appid=7f446f1583cd1c8c4f9c14437611e70f&units=metric`)
       .then(r => r.json())
       .then((recurso) => {
         if(recurso.main !== undefined){
