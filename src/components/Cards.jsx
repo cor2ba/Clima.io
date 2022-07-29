@@ -8,7 +8,7 @@ export default function Cards({ cities, onClose }) {
     return (
       <div className="container">
         <img className="image" src={icono} alt="Icono" />
-        <h1 className="text">¡DEBES BUSCAR UNA CIUDAD!</h1>
+        <h1 className="text">¡BUSCA UNA CIUDAD!</h1>
       </div>
     );
   }
