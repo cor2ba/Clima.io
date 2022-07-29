@@ -1,0 +1,33 @@
+.card {
+  padding-top: 20px;
+  width: 400px;
+  margin: 50px;
+  background-color: rgba(0, 0, 0, 0.441);
+  color: white;
+}
+
+.card-title {
+  margin-bottom: 15px;
+  margin-top: 4px;
+}
+
+#closeIcon {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0px;
+}
+
+.card-body {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+}
+
+.btn {
+  position: absolute;
+  background-color: rgba(255, 0, 0, 0.597);
+  color: #fff;
+  font-size: 15px;
+  text-align: center;
+  right: 0.5rem;
+  top: 0.5rem;
+}

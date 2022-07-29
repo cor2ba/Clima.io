@@ -1,0 +1,22 @@
+body {
+  background-image: url("https://www.todofondos.net/wp-content/uploads/4k-star-wallpapers-los-mejores-fondos-4k-star-gratis-wallpaperaccess.-imagen-4k-ultra-hd-de-estrellas-scaled.jpg");
+  background-attachment: fixed;
+  position: relative;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+footer {
+  line-height: 60px;
+  background-color: rgba(0, 0, 0, 0.441);
+  color: rgb(255, 123, 0);
+  text-align: center;
+  font-family: Franklin Gothic;
+  margin-top: auto;
+  letter-spacing: 3px;
+  font-size: 25px;
+  border: 2px solid rgb(52, 52, 52);
+}
+

@@ -1,0 +1,32 @@
+.logoHenry {
+  background-color: rgba(0, 0, 0, 0.441);
+  display: flex;
+  border: solid;
+  border-radius: 5px;
+  height: 120px;
+}
+.separadorBarra {
+  position: absolute;
+  right: 4%;
+}
+.textClima {
+  font-size: 30px;
+  margin-top: 35px;
+  margin-left: 20px;
+  color: white;
+  font-family: Franklin Gothic;
+}
+.logo {
+  max-width: 80px;
+  min-width: 80px;
+  max-height: 75px;
+  min-height: 75px;
+  margin-top: 18px;
+  margin-left: 60px;
+}
+.text1 {
+  font-size: 30px;
+  margin-top: 35px;
+  color: rgb(255, 123, 0);
+  font-family: Franklin Gothic;
+}

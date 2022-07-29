@@ -1,0 +1,14 @@
+.boton1 {
+  border-radius: 20px;
+  margin-top: 42px;
+  background-color: rgb(255, 123, 0);
+  color: #fff;
+}
+.barra {
+  border-radius: 10px;
+  background-color: white;
+}
+
+::placeholder {
+  color: rgb(255, 123, 0);
+}
