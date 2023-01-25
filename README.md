@@ -1,6 +1,6 @@
 # Clima.io
 
-Podras ejecutar este proyecto ejecutando este comando en consola `npm start`.   
+Podras ejecutar este proyecto con los siguientes comandos en consola, `npm install` (instalar dependecias) luego `npm start` (levantar proyecto).   
 
 ### Clima.io es una página para ver el clima de cualquier ciudad o país del mundo a tiempo real.
 
